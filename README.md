@@ -1,5 +1,5 @@
 # Codility
 https://app.codility.com/programmers/lessons/
 
-#Hacker Rank
+# Hacker Rank
 https://www.hackerrank.com/dashboard
